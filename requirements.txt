@@ -1,4 +1,3 @@
 Django>=3.2,<4.0
 djangorestframework
 celery
-# ... и другие зависимости.
